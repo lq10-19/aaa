@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "loadAmount",
+        "itemName": "期望贷款金额",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 1,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 2,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "cityName",
+        "itemName": "办理城市",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 2,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 3,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "personName",
+        "itemName": "姓名",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 3,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 4,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "mobile",
+        "itemName": "手机号码",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 4,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    }
+]

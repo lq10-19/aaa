@@ -1,0 +1,126 @@
+[
+    {
+        "id": 0,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "applicationId",
+        "itemName": "申请单ID",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 0,
+        "requiredFlag": 1,
+        "displayFlag": 0
+    },
+    {
+        "id": 1,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "name",
+        "itemName": "姓名",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 1,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 2,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "education",
+        "itemName": "学历",
+        "enableFlag": 1,
+        "inputType": "select",
+        "values": [
+            "本科",
+            "小学"
+        ],
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 2,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 3,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "marriageStatus",
+        "itemName": "婚姻状况",
+        "values": [
+            "已婚",
+            "未婚"
+        ],
+        "enableFlag": 1,
+        "inputType": "select",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 3,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 4,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "houseAddress",
+        "itemName": "住宅地址",
+        "enableFlag": 1,
+        "inputType": "address",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 4,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 5,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "houseType",
+        "itemName": "房屋性质",
+        "enableFlag": 1,
+        "inputType": "select",
+        "values": [
+            "公寓",
+            "商品房"
+        ],
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 5,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 6,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "mobile",
+        "itemName": "手机号",
+        "enableFlag": 1,
+        "inputType": "text",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 6,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    },
+    {
+        "id": 7,
+        "loanCompany": "baiqian",
+        "classCode": "applicant",
+        "itemCode": "smsCode",
+        "itemName": "短信验证码",
+        "enableFlag": 1,
+        "inputType": "smsCode",
+        "dataSource": "",
+        "defaultValue": "",
+        "sortNo": 7,
+        "requiredFlag": 1,
+        "displayFlag": 1
+    }
+]

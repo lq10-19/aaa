@@ -1,0 +1,7 @@
+1.增加生产环境打包配置
+2.API切换至生产环境
+3.ORC的APPID和SECRET替换为生产环境
+4.部署https://bqyxh5.bqrzzl.com/cdd/carInfo
+
+启用活体识别和短信
+2019.7.04

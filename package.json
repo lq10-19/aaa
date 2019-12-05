@@ -1,0 +1,40 @@
+{
+  "name": "vehicle-loan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production --modern",
+    "build-test": "vue-cli-service build --mode test --modern",
+    "server": "lite-server -c lite-server-config.js",
+    "browserslist": "browserslist --config browserslist"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "core-js": "^2.6.5",
+    "dayjs": "^1.8.14",
+    "exif-js": "^2.3.0",
+    "lite-server": "^2.5.3",
+    "query-string": "^6.9.0",
+    "querystring": "^0.2.0",
+    "store": "^2.0.12",
+    "vant": "^2.0.1",
+    "vue": "^2.6.10",
+    "vue-meta": "^2.0.3",
+    "vue-pdf": "^4.0.7",
+    "vue-photo-preview": "^1.1.3",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1",
+    "weixin-js-sdk": "^1.4.0-test"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-plugin-import": "^1.12.0",
+    "sass": "^1.18.0",
+    "sass-loader": "^7.1.0",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
