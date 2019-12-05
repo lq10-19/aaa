@@ -19,7 +19,7 @@
     "query-string": "^6.9.0",
     "querystring": "^0.2.0",
     "store": "^2.0.12",
-    "vant": "^2.0.1",
+    "vant": "^2.1.8",
     "vue": "^2.6.10",
     "vue-meta": "^2.0.3",
     "vue-pdf": "^4.0.7",
